@@ -8,3 +8,4 @@
 3. Run project : `npm run dev`
 4. Install bootstrap using npm : `npm install bootstrap --save`
 5. Intall axios for rest api calls : `npm install axios`
+6. Insall react-router-dom : `npm install react-router-dom`
